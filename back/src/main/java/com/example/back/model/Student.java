@@ -88,9 +88,4 @@ public String getGenter() {
 public void setGenter(String genter) {
   this.genter = genter;
 }
-// @Override
-// public String toString(){
-//     return "Student [id "+id+",name "+name+",dob " + dob + ",clas "+clas+",division "+division+", genter "+genter+"]";
-// }
-    
 }

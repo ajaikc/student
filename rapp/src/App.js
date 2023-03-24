@@ -170,7 +170,7 @@ class studentInformation extends React.Component {
                   <th>id</th>
                   <th>name</th>
                   <th>dob</th>
-                  <th>genter</th>
+                  <th>genDer</th>
                   <th>class</th>
                   <th>division</th>
                 </tr>
